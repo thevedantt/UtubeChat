@@ -1,4 +1,4 @@
-# 🎥 YouTube Video Chat Assistant with Gemini
+# 🎥 YouTube Video Chat Assistant 
 
 This Python project lets you enter a YouTube video link, extract its details and description using `yt_dlp`, and then interact with an AI chatbot powered by Google's Gemini Flash 2.0. You can ask questions about the video based on its description.
 
